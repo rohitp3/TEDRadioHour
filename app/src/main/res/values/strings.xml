@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW07</string>
+    <string name="action_settings">Cart</string>
+
+    <string name="playnow">Play Now</string>
+    <string name="launchtxt">TED Radio Hour Podcast</string>
+    <string name="empty"></string>
+    <string name="title_activity_playactivity">Playactivity</string>
+</resources>
